@@ -1,0 +1,13 @@
+.resort-bg-info{
+     background-color: #333652;
+}
+.categories img{
+    width: 100px;
+}
+.resort-btn-buy-now{
+    background-color: #facf23;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
